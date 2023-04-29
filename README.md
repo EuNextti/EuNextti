@@ -3,4 +3,4 @@
 - 💞️ Apesar de estar migrando para a área de desenvolvimento de games, eu sou um desenvolvedor 
   FullStack com sólidos conhecimentos em JavaScript, TypeScript, Java, Html, Css e Node.
   
-- 📫 Se você quer entrar em contato comigo utilize o [Linkedin]([https://link-url-here.org](https://www.linkedin.com/in/walberthlopes/))
+- 📫 Se você quer entrar em contato comigo utilize o [Linkedin](https://link-url-here.org](https://www.linkedin.com/in/walberthlopes/)
