@@ -4,8 +4,7 @@
 
 <p align="center">
     Chegue mais perto, pegue uma xícara de café e sente-se perto da fogueira pois a noite está fria e eu lhe contarei
-    uma breve historia sobre como nasci tão bonito assim. Hmmm... Na verdade essa pode ficar para a próxima pois pessoas
-    comuns não conseguem compreender estupenda veracidade. Mas vou lhe contar então como virei um desenvolvedor:
+    uma breve historia sobre como virei um desenvolvedor:
 </p>
 
 <p align="center">
