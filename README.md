@@ -8,4 +8,4 @@
 - 📌 Email: eunextti@gmail.com
 - 📌 Linkedin: [walberthlopes](https://www.linkedin.com/in/walberthlopes/)
 - 📌 Discord: nextti
-- 📌 Whatsapp: +55(38)98421-9251
+- 📌 Whatsapp: +55 (38) 9 8421-9251
